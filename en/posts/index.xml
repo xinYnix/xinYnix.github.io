@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>📚文章 on Sulv&#39;s Blog</title>
-    <link>https://www.sulvblog.cn/en/posts/</link>
-    <description>Recent content in 📚文章 on Sulv&#39;s Blog</description>
+    <title>📚文章 on X&#39;s Blog</title>
+    <link>https://xinYnix.github.io/en/posts/</link>
+    <description>Recent content in 📚文章 on X&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate><atom:link href="https://www.sulvblog.cn/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate><atom:link href="https://xinYnix.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
