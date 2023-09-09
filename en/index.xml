@@ -8,21 +8,21 @@
     <language>en</language>
     <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate><atom:link href="https://xinYnix.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>🙋🏻‍♂️About Me</title>
+      <link>https://xinYnix.github.io/en/about/</link>
+      <pubDate>Sat, 09 Sep 2023 14:57:28 +0800</pubDate>
+      
+      <guid>https://xinYnix.github.io/en/about/</guid>
+      <description>英文名: Xiny 职业: 不正经程序员 爱好: dota2, 乒乓球</description>
+    </item>
+    
+    <item>
       <title>Redis scan命令学习</title>
       <link>https://xinYnix.github.io/en/posts/tech/tech1/</link>
       <pubDate>Wed, 30 Nov 2022 15:55:23 +0800</pubDate>
       
       <guid>https://xinYnix.github.io/en/posts/tech/tech1/</guid>
       <description>scan命令详解</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://xinYnix.github.io/en/posts/blog/blog/</link>
-      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
-      
-      <guid>https://xinYnix.github.io/en/posts/blog/blog/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -52,25 +52,16 @@
       <description>科技代码</description>
     </item>
     
+    
+    
     <item>
-      <title>🤝友链</title>
+      <title>🤝Links</title>
       <link>https://xinYnix.github.io/en/links/</link>
-      <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xinYnix.github.io/en/links/</guid>
-      <description>Sulv&amp;#39;s Blog 一个记录技术、阅读、生活的博客 👉友链格式 名称： Sulv&amp;rsquo;s Blog 网址： https://www.sulvblog.cn 图标： https://www.sulvblog.cn/img/Q.gif 描述： 一个记录技术、阅读、生活的博客 👉友链申请要求 秉承互换友链原则、文</description>
+      <description>👉友链格式 名称： Sulv&amp;rsquo;s Blog 网址： https://www.sulvblog.cn 图标： https://www.sulvblog.cn/img/Q.gif 描述： 一个记录技术、阅读、生活的博客 👉友链申请要求 秉承互换友链原则、文章定期更新、不能有太多广告、个人描</description>
     </item>
-    
-    <item>
-      <title>🙋🏻‍♂️关于</title>
-      <link>https://xinYnix.github.io/en/about/</link>
-      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
-      
-      <guid>https://xinYnix.github.io/en/about/</guid>
-      <description>关于我 英文名: Kevin Xu 职业: 程序员 运动: 跑步、乒乓球、爬山</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
